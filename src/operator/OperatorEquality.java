@@ -4,7 +4,7 @@ public class OperatorEquality {
     public static void main(String[] args) {
         int i = 5;
         int j = 6;
-        System.out.println(i==5); //true
+        System.out.println(i==5); //truee
         System.out.println(i==6); //false
         System.out.println(i==j); //false
         System.out.println(i>j); //false
